@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/flowbite-react/static/css/main.3939b2d3.css",
-    "main.js": "/flowbite-react/static/js/main.80491092.js",
+    "main.css": "/flowbite-react/static/css/main.8d4efefe.css",
+    "main.js": "/flowbite-react/static/js/main.bb27a391.js",
     "index.html": "/flowbite-react/index.html",
-    "main.3939b2d3.css.map": "/flowbite-react/static/css/main.3939b2d3.css.map",
-    "main.80491092.js.map": "/flowbite-react/static/js/main.80491092.js.map"
+    "main.8d4efefe.css.map": "/flowbite-react/static/css/main.8d4efefe.css.map",
+    "main.bb27a391.js.map": "/flowbite-react/static/js/main.bb27a391.js.map"
   },
   "entrypoints": [
-    "static/css/main.3939b2d3.css",
-    "static/js/main.80491092.js"
+    "static/css/main.8d4efefe.css",
+    "static/js/main.bb27a391.js"
   ]
 }
