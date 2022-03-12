@@ -1,13 +1,35 @@
 {
   "files": {
-    "main.css": "/flowbite-react/static/css/main.76ccbfeb.css",
-    "main.js": "/flowbite-react/static/js/main.09c6d0c0.js",
+    "main.css": "/flowbite-react/static/css/main.bf01b9e2.css",
+    "main.js": "/flowbite-react/static/js/main.ff74906c.js",
+    "static/js/524.f56d19c4.chunk.js": "/flowbite-react/static/js/524.f56d19c4.chunk.js",
+    "static/js/823.d9d06542.chunk.js": "/flowbite-react/static/js/823.d9d06542.chunk.js",
+    "static/js/684.6323bc8a.chunk.js": "/flowbite-react/static/js/684.6323bc8a.chunk.js",
+    "static/js/526.7638d843.chunk.js": "/flowbite-react/static/js/526.7638d843.chunk.js",
+    "static/js/350.32654303.chunk.js": "/flowbite-react/static/js/350.32654303.chunk.js",
+    "static/js/84.57077e3a.chunk.js": "/flowbite-react/static/js/84.57077e3a.chunk.js",
+    "static/js/775.7c4d365e.chunk.js": "/flowbite-react/static/js/775.7c4d365e.chunk.js",
+    "static/js/538.578d85f6.chunk.js": "/flowbite-react/static/js/538.578d85f6.chunk.js",
+    "static/css/583.8fac8c6b.css": "/flowbite-react/static/css/583.8fac8c6b.css",
+    "static/js/583.7c381cff.js": "/flowbite-react/static/js/583.7c381cff.js",
     "index.html": "/flowbite-react/index.html",
-    "main.76ccbfeb.css.map": "/flowbite-react/static/css/main.76ccbfeb.css.map",
-    "main.09c6d0c0.js.map": "/flowbite-react/static/js/main.09c6d0c0.js.map"
+    "main.bf01b9e2.css.map": "/flowbite-react/static/css/main.bf01b9e2.css.map",
+    "main.ff74906c.js.map": "/flowbite-react/static/js/main.ff74906c.js.map",
+    "524.f56d19c4.chunk.js.map": "/flowbite-react/static/js/524.f56d19c4.chunk.js.map",
+    "823.d9d06542.chunk.js.map": "/flowbite-react/static/js/823.d9d06542.chunk.js.map",
+    "684.6323bc8a.chunk.js.map": "/flowbite-react/static/js/684.6323bc8a.chunk.js.map",
+    "526.7638d843.chunk.js.map": "/flowbite-react/static/js/526.7638d843.chunk.js.map",
+    "350.32654303.chunk.js.map": "/flowbite-react/static/js/350.32654303.chunk.js.map",
+    "84.57077e3a.chunk.js.map": "/flowbite-react/static/js/84.57077e3a.chunk.js.map",
+    "775.7c4d365e.chunk.js.map": "/flowbite-react/static/js/775.7c4d365e.chunk.js.map",
+    "538.578d85f6.chunk.js.map": "/flowbite-react/static/js/538.578d85f6.chunk.js.map",
+    "583.8fac8c6b.css.map": "/flowbite-react/static/css/583.8fac8c6b.css.map",
+    "583.7c381cff.js.map": "/flowbite-react/static/js/583.7c381cff.js.map"
   },
   "entrypoints": [
-    "static/css/main.76ccbfeb.css",
-    "static/js/main.09c6d0c0.js"
+    "static/css/583.8fac8c6b.css",
+    "static/js/583.7c381cff.js",
+    "static/css/main.bf01b9e2.css",
+    "static/js/main.ff74906c.js"
   ]
 }
