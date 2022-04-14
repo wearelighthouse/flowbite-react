@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/flowbite-react/static/css/main.9baa6721.css",
-    "main.js": "/flowbite-react/static/js/main.57194fa1.js",
+    "main.css": "/flowbite-react/static/css/main.10b850a6.css",
+    "main.js": "/flowbite-react/static/js/main.02c5805c.js",
     "static/css/845.c3a787b0.css": "/flowbite-react/static/css/845.c3a787b0.css",
-    "static/js/845.32b4710c.js": "/flowbite-react/static/js/845.32b4710c.js",
+    "static/js/845.6ac5edf1.js": "/flowbite-react/static/js/845.6ac5edf1.js",
     "index.html": "/flowbite-react/index.html",
-    "main.9baa6721.css.map": "/flowbite-react/static/css/main.9baa6721.css.map",
-    "main.57194fa1.js.map": "/flowbite-react/static/js/main.57194fa1.js.map",
+    "main.10b850a6.css.map": "/flowbite-react/static/css/main.10b850a6.css.map",
+    "main.02c5805c.js.map": "/flowbite-react/static/js/main.02c5805c.js.map",
     "845.c3a787b0.css.map": "/flowbite-react/static/css/845.c3a787b0.css.map",
-    "845.32b4710c.js.map": "/flowbite-react/static/js/845.32b4710c.js.map"
+    "845.6ac5edf1.js.map": "/flowbite-react/static/js/845.6ac5edf1.js.map"
   },
   "entrypoints": [
     "static/css/845.c3a787b0.css",
-    "static/js/845.32b4710c.js",
-    "static/css/main.9baa6721.css",
-    "static/js/main.57194fa1.js"
+    "static/js/845.6ac5edf1.js",
+    "static/css/main.10b850a6.css",
+    "static/js/main.02c5805c.js"
   ]
 }
